@@ -9,3 +9,4 @@ let make =()=>{
     <Bottom status=status/>
   </div>
 }
+//npm run re:start
